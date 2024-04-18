@@ -5,6 +5,6 @@ Streamlit app to share information about the movies acorss the different setream
 2. Second item
 3. Third item
 
-print("Hola mundo)
+
 
 
